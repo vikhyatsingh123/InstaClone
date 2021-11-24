@@ -1,5 +1,5 @@
 # InstaClone
-<p>This is a full-stack social media application like Instagram where users can register themselves, follow their friends, post pics or messages, like and comment on the posts etc.
+<p>This is a full-stack Instagram clone where users can register themselves, login in their account, post images, view other's images.
 I build this application using the MERN stack.
 </p>
 <br>
