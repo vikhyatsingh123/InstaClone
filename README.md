@@ -10,5 +10,6 @@ Stack:
   <li>Client: React, HTML, CSS</li>
 </ul>
 <br>
-<li>email: abc@gmail.com</li>
-<li>password: abc</li>
+Login credential:
+   <li>email: abc@gmail.com</li>
+   <li>password: abc</li>
